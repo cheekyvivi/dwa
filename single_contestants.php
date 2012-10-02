@@ -20,6 +20,7 @@
 		$winning_number = rand(1,$contestant_numbers);
 		echo $winning_number;
 
+		}
 
 		?>
 
